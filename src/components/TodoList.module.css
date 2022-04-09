@@ -1,0 +1,40 @@
+.list,
+.un-check {
+  text-align: center;
+  color: white;
+  font-size: 2.2rem;
+  font-weight: 300;
+}
+
+.checked {
+  text-decoration: line-through;
+}
+
+.list h1 {
+  text-align: center;
+  color: white;
+  font-size: 1.5rem;
+  font-weight: 750;
+}
+
+.list input {
+  position: relative;
+  margin-right: 10px;
+  width: 1.5em;
+  height: 1.5em;
+  border: 2px solid rgb(228, 223, 223);
+  border-radius: 4px;
+}
+
+.list label {
+  font-weight: 500;
+}
+
+.list button {
+  color: white;
+  margin-left: 15px;
+  border-radius: 0;
+  background-color: transparent;
+  border: 1px solid;
+  padding: 0 4px;
+}
